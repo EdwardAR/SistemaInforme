@@ -1,0 +1,36 @@
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Header */
+header {
+    background-color: #0d6efd !important;
+}
+
+/* Card */
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+/* Botones */
+.btn {
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+}
+
+/* Textarea */
+textarea {
+    resize: none;
+}
+
+/* Resultado del informe */
+#reportResult {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+}
