@@ -3,7 +3,19 @@
 Este es un proyecto para generar y enviar informes de manera dinámica y responsiva.
 
 ## Estructura de Archivos
-
+/Sistema de informe
+│
+├── /css
+│ └── styles.css # Estilos personalizados
+│
+├── /js
+│ └── script.js # Lógica de la aplicación
+│
+├── /assets # Imágenes, íconos, etc.
+│
+├── index.html # Página principal
+│
+└── README.md # Documentación del proyecto
 
 ## Descripción de Archivos y Carpetas
 
